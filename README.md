@@ -2,7 +2,7 @@
 
 This project explores the effectiveness of data in predicting consumer preferences compared to traditional creative methods. Using advanced web data analytics, we analyzed customer feedback, sentiment from platforms like Reddit, and sales metrics from Google Shopping. Our goal was to understand the digital presence of brands and evaluate how data could influence their strategic direction.
 
-**GitHub URL:** [Add your GitHub repository URL here]
+**Project URL:** [[Project URL](https://harshrajjadeja13.wixsite.com/hjadeja/projects/predicting-consumer-tastes-using-web-data-analysis-for-gap-inc.)]
 
 ## Table of Contents
 - [Overview](#overview)
